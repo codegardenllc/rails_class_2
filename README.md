@@ -2,7 +2,7 @@
 
 ## Summary
 
-This class consists of approximately eight 1.5 hour long sessions which will involve creating a full-functioning Rails application.
+This class consists of approximately ten 1.5 hour long sessions which will involve creating a full-functioning Rails application.
 
 ## Prerequisites
 
@@ -42,7 +42,9 @@ Since we usually spend a lot of time setting up Ruby on Rails, doing that would 
   * Finish tests for homework
 * Week 8:
   * Pretty-up the application (HTML/CSS)
+* Week 9:
   * Deploy
-* Week 8:
+  * Test and fix any issues
+* Week 10:
   * Anything that we miss
   * Questions and answers
